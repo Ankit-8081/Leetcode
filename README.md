@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit-8081/Leetcode/tree/master/0001-two-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ankit-8081/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

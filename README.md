@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/Ankit-8081/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Ankit-8081/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ankit-8081/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

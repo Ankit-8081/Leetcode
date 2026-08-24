@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Ankit-8081/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-8081/Leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

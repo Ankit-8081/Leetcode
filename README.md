@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ankit-8081/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ankit-8081/Leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Ankit-8081/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ankit-8081/Leetcode/tree/master/0069-sqrtx) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Array
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ankit-8081/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

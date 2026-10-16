@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Ankit-8081/Leetcode/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/Ankit-8081/Leetcode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |

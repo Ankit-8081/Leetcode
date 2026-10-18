@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ankit-8081/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/Ankit-8081/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Ankit-8081/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankit-8081/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Ankit-8081/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Array
 |  |

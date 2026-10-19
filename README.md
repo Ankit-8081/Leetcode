@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ankit-8081/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ankit-8081/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
+| [0415-add-strings](https://github.com/Ankit-8081/Leetcode/tree/master/0415-add-strings) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankit-8081/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Ankit-8081/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankit-8081/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Ankit-8081/Leetcode/tree/master/0415-add-strings) |
 ## Newton's Method
 |  |
 | ------- |

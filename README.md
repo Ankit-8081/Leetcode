@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankit-8081/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Ankit-8081/Leetcode/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/Ankit-8081/Leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankit-8081/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankit-8081/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Ankit-8081/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit-8081/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-8081/Leetcode/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankit-8081/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankit-8081/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation

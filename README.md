@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Ankit-8081/Leetcode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Ankit-8081/Leetcode/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit-8081/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankit-8081/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankit-8081/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankit-8081/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankit-8081/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
